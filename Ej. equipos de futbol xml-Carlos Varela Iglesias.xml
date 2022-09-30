@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <variedaddeequipos>
+   <equipo>
+      <nombre>Betis</nombre>
+      <ciudad>Sevilla</ciudad>
+      <entrenador>Manuel Pellegrini</entrenador>
+      <jugadores>
+        <jugador1>
+         <posicion puesto="porterodelequipo">
+            <nombre>Agustín Marchesín</nombre>
+            <nacionalidad>arxentina</nacionalidad>
+            </posicion>
+         </jugador1>
+         <jugador2>
+         <posicion puesto="delanterodelequipo">
+            <nombre>Luiz Henrique</nombre>
+            <nacionalidad>azerbayano</nacionalidad>
+         </posicion>
+            </jugador2>
+      </jugadores>
+   </equipo>
+   <equipo>
+      <nombre>Málaga club de fútbol</nombre>
+      <ciudad>Málaga</ciudad>
+      <entrenador>Pablo Guede</entrenador>
+      <jugadores>
+      <jugador1>
+         <posicion puesto="porterodelequipo">
+            <nombre>Monolo Reina</nombre>
+            <nacionalidad>Macedonio</nacionalidad>
+            </posicion>
+            </jugador1>
+            <jugador2>
+         <posicion puesto="centrocampistadelequipo">
+            <nombre>Moussa Diarra</nombre>
+            <nacionalidad>Ugandés</nacionalidad>
+         </posicion>
+         </jugador2>
+      </jugadores>
+   </equipo>
+  </variedaddeequipos>

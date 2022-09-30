@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+    <Páginas>
+    <Wikipedia>
+        <descripcion>enciclopedia en línea creada a través del trabajo colaborativo de los usuarios de este sitio web.</descripcion>
+        <url>http://gl.wikipedia.org/</url>
+        </Wikipedia>
+      <Wiki do CIFP Rodolfo Ucha>
+        <descripcion>Pequeña wiki del centro con información útil para los cursos</descripcion>
+        <url>http://wiki.cifprodolfoucha.es/</url>
+        </Wiki do CIFP Rodolfo Ucha>
+     <w3schools>
+     <descripcion>Página de tutoriales de todo tipo en inglés</descripcion>
+     <url>http://w3schools.com/</url>
+     </w3schools>
+    </Páginas>
